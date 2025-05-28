@@ -21,39 +21,41 @@
 					<div class="col-md-4 mb-5">
 						<h5 class="text-secondary text-uppercase mb-4">Sinh viên</h5>
 						<div class="d-flex flex-column justify-content-start">
-				<span class="text-secondary mb-2">
-					<i class="fa fa-angle-right mr-2"></i>Võ Thành Đô
-				</span>
-							<span class="text-secondary mb-2">
-					<i class="fa fa-angle-right mr-2"></i>Cao Sơn Hào
-				</span>
+							<span class="text-secondary mb-2"><i
+								class="fa fa-angle-right mr-2"></i>Phan Tấn Đạt</span> <span
+								class="text-secondary mb-2" href="#"><i
+								class="fa fa-angle-right mr-2"></i>Võ Thành Đạt</span> <span
+								class="text-secondary mb-2" href="#"><i
+								class="fa fa-angle-right mr-2"></i>Trần Lê Anh Khoa</span>
 						</div>
 					</div>
 					<div class="col-md-4 mb-5">
 						<h5 class="text-secondary text-uppercase mb-4">MSSV</h5>
 						<div class="d-flex flex-column justify-content-start">
-							<a class="text-secondary mb-2" href="#">
-								<i class="fa fa-angle-right mr-2"></i>19130044
-							</a>
-							<a class="text-secondary mb-2" href="#">
-								<i class="fa fa-angle-right mr-2"></i>19130064
-							</a>
+							<a class="text-secondary mb-2" href="#"><i
+								class="fa fa-angle-right mr-2"></i>19130033</a> <a
+								class="text-secondary mb-2" href="#"><i
+								class="fa fa-angle-right mr-2"></i>19130034</a> <a
+								class="text-secondary mb-2" href="#"><i
+								class="fa fa-angle-right mr-2"></i>19130108</a>
+
 						</div>
 					</div>
 					<div class="col-md-4 mb-5">
 						<h5 class="text-secondary text-uppercase mb-4">Mail</h5>
 						<div class="d-flex flex-column justify-content-start">
-				<span class="text-secondary mb-2">
-					<i class="fa fa-envelope text-primary mr-3"></i>19130044@st.hcmuaf.edu.vn
-				</span>
-							<span class="text-secondary mb-2">
-					<i class="fa fa-envelope text-primary mr-3"></i>19130064@st.hcmuaf.edu.vn
-				</span>
+							<span class="text-secondary mb-2" href="#"><i
+								class="fa fa-envelope text-primary mr-3"></i>19130033@st.hcmuaf.edu.vn</span>
+							<span class="text-secondary mb-2" href="#"><i
+								class="fa fa-envelope text-primary mr-3"></i>19130034@st.hcmuaf.edu.vn</span>
+							<span class="text-secondary mb-2" href="#"><i
+								class="fa fa-envelope text-primary mr-3"></i>19130108@st.hcmuaf.edu.vn</span>
+
+
 						</div>
 					</div>
 				</div>
 			</div>
-
 		</div>
 
 	</div>
